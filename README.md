@@ -1,0 +1,2 @@
+# AzureFunctionHost
+Available
